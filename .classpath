@@ -11,5 +11,6 @@
 	<classpathentry kind="lib" path="lib/pop3.jar"/>
 	<classpathentry kind="lib" path="lib/smtp.jar"/>
 	<classpathentry kind="lib" path="lib/joda-time-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jzsms-6.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

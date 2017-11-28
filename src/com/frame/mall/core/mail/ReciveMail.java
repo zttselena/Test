@@ -16,7 +16,6 @@ public class ReciveMail {
     private MimeMessage mimeMessage = null;
     private final String dateformat = "yy-MM-dd HH:mm"; //默认的日前显示格式
 
-
     private String saveAttachPath; //附件下载后的存放目录
     private String host;   //smtp.126.com  的host
     private int port;      //收件服务器  端口

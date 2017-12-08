@@ -43,6 +43,9 @@ public class FinalConstructorTest {
 	
 	public static void main(String[] args) {
 		new B();
+		StringBuffer buffer = new StringBuffer();
+		buffer.append("aa");
+		System.out.println(buffer);
 	}
 
 }
